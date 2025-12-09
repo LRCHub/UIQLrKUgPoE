@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "化けの皮",
+  "base_artist": "MAISONdes",
+  "createdAt": "2025-12-09T04:40:53.732281Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "化けの皮 (feat. こぼ・かなえる, 重音テト, Giga & TeddyLoid)",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/01_化けの皮_(feat._こぼ・かなえる,_重音テト,_Giga_&_TeddyLoid)_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "化けの皮",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/02_化けの皮_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "化けの皮 (feat. こぼ・かなえる & 重音テト & Giga & TeddyLoid)",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/03_化けの皮_(feat._こぼ・かなえる_&_重音テト_&_Giga_&_TeddyLoid)_MAISONdes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "化けの皮 (feat. こぼ・かなえる, 重音テト, Giga & TeddyLoid)",
+      "artist": "MAISONdes, こぼ・かなえる, 重音テト, Giga, TeddyLoid",
+      "has_synced": false,
+      "path": "select/pl_01_化けの皮_(feat._こぼ・かなえる,_重音テト,_Giga_&_TeddyLoid)_MAISONdes,_こぼ・かなえる,_重音テト,_Giga,_TeddyLoid.txt"
+    }
+  ]
+}

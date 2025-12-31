@@ -1,4 +1,4 @@
-# MAISONdes – 化けの皮
+# MAISONdes – 化けの皮（feat. こぼ・かなえる、重音テト、Giga、TeddyLoid）
 
 > **歌詞登録ステータス：同期歌詞あり**
 
